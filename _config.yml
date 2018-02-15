@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
+title: Aman
+email: amanashu10@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
-url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
+url: https://deadpool10.github.io/ # the base hostname & protocol for your site
 keywords: ["Programming", "PHP", "Ruby"]
 
 #
@@ -14,7 +14,7 @@ keywords: ["Programming", "PHP", "Ruby"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          India/Kolkata
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,13 +33,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Aman Chopra
   avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
-  disqus-shortname: renyuanzblog
-  twitter: renyuan814 #username
+  job: "Data Enthusiast"
+  bio: "A customer support professional who loves data and looking for full time opportunity as Data Analyst."
+  email: amanashu10@gmail.com
+  # disqus-shortname: renyuanzblog
+  twitter: theamanchopra
   facebook: #username
   google:
     plus: #username
@@ -48,9 +48,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: renyuanz #username
+  github: deadpool10
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: renyuan-zou-69b7038a #username
+  linkedin: chopraaman10
   xing: #username
   instagram: #username
   lastfm: #username
