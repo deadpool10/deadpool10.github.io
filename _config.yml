@@ -14,7 +14,7 @@ keywords: ["Programming", "PHP", "Ruby"]
 # Jekyll configuration
 ####################################
 #
-timezone:          India/Kolkata
+timezone:          Indian/Christmas
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
